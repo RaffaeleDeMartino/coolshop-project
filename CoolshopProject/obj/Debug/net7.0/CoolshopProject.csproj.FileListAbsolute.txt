@@ -1,0 +1,15 @@
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/bin/Debug/net7.0/CoolshopProject
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/bin/Debug/net7.0/CoolshopProject.deps.json
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/bin/Debug/net7.0/CoolshopProject.runtimeconfig.json
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/bin/Debug/net7.0/CoolshopProject.dll
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/bin/Debug/net7.0/CoolshopProject.pdb
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.csproj.AssemblyReference.cache
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.AssemblyInfoInputs.cache
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.AssemblyInfo.cs
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.csproj.CoreCompileInputs.cache
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.dll
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/refint/CoolshopProject.dll
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.pdb
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/CoolshopProject.genruntimeconfig.cache
+/Users/raffaeledemartino/coolshop-project/CoolshopProject/obj/Debug/net7.0/ref/CoolshopProject.dll
