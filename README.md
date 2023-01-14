@@ -17,7 +17,7 @@ git clone git@github.com:RaffaeleDeMartino/coolshop-project.git
 ## Running the script
 In order to execute the script, run the following commands:
 ```
-cd CoolshopProject
+cd coolshop-project/CoolshopProject
 dotnet run Program.cs <filename> <column-index> <filter-key>
 
 ```
